@@ -1,25 +1,30 @@
-Checkout de um commit específico:
 
-Isso coloca o repositório no estado "detached HEAD".
 
-Efeitos do estado "detached HEAD":
+## Estrutura do Projeto
 
-Você pode fazer alterações e commits, mas esses commits não estarão em nenhuma branch.
-Se você mudar para outra branch, esses commits podem ser perdidos, a menos que você crie uma nova branch a partir do estado atual.
-Criar uma nova branch a partir do estado "detached HEAD":
+O projeto possui a seguinte estrutura de arquivos:
 
-Isso cria uma nova branch e preserva os commits feitos enquanto o HEAD estava destacado.
+### Arquivos
 
-Exemplo Prático
-Verifique o histórico de commits:
+- `index.html`: Contém a estrutura HTML da página.
+- `style.css`: Contém os estilos CSS aplicados à página.
+- `img/Imagem.png`: Imagem de perfil utilizada na página.
 
-Faça checkout de um commit específico:
+## Tecnologias Utilizadas
 
-Faça algumas alterações e commits:
+- HTML
+- CSS
+- Google Fonts
 
-Crie uma nova branch para salvar essas alterações:
+## Como Visualizar
 
-Conclusão
-O estado "detached HEAD" é útil para explorar o histórico do repositório ou fazer alterações temporárias. No entanto, é importante lembrar de criar uma nova branch se você quiser preservar essas alterações.
+Para visualizar o portfólio, basta abrir o arquivo `index.html` em um navegador web.
 
-Texto adicionado para fazer o teste do detached mode, este conteudo está 1 commit atras da main, sera feito a criação de uma nova branch para que posteriormente este conteudo seja adicionado as branc principar ficando assim "up to date"
+## Contato
+
+- [LinkedIn](http://www.linkedin.com/in/gabrielarthurdev/)
+- [GitHub](https://github.com/GabrielArthu)
+
+## Licença
+
+Este projeto está licenciado sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
