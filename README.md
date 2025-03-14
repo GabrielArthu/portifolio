@@ -20,6 +20,11 @@ O projeto possui a seguinte estrutura de arquivos:
 
 Para visualizar o portfólio, basta abrir o arquivo `index.html` em um navegador web.
 
-Texto adicionado para fazer o teste do detached mode, este conteudo está 1 commit atras da main, sera feito a criação de uma nova branch para que posteriormente este conteudo seja adicionado as branc principar ficando assim "up to date"
+## Contato
 
-adicionando o contudo ao repositorio remoto
+- [LinkedIn](http://www.linkedin.com/in/gabrielarthurdev/)
+- [GitHub](https://github.com/GabrielArthu)
+
+## Licença
+
+Este projeto está licenciado sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
