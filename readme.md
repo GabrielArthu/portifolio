@@ -23,3 +23,5 @@ Conclusão
 O estado "detached HEAD" é útil para explorar o histórico do repositório ou fazer alterações temporárias. No entanto, é importante lembrar de criar uma nova branch se você quiser preservar essas alterações.
 
 Texto adicionado para fazer o teste do detached mode, este conteudo está 1 commit atras da main, sera feito a criação de uma nova branch para que posteriormente este conteudo seja adicionado as branc principar ficando assim "up to date"
+
+adicionando o contudo ao repositorio remoto
